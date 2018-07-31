@@ -1,0 +1,6 @@
+import numpy
+import theano
+import tensorflow
+import keras
+
+print(keras.__version__)
